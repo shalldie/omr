@@ -1,14 +1,14 @@
 {
-  "name": "railgun-plus",
+  "name": "omr",
   "version": "1.0.0",
-  "description": "railgun plus, for navigation and selling moe.",
+  "description": "Oh my railgun , for navigation and selling moe.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shalldie/railgun-plus.git"
+    "url": "git+https://github.com/shalldie/omr.git"
   },
   "keywords": [
     "railgun",
@@ -17,7 +17,7 @@
   "author": "shalldie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shalldie/railgun-plus/issues"
+    "url": "https://github.com/shalldie/omr/issues"
   },
-  "homepage": "https://github.com/shalldie/railgun-plus#readme"
+  "homepage": "https://github.com/shalldie/omr#readme"
 }

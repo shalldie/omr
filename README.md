@@ -1,4 +1,4 @@
-# railgun-plus
-railgun plus, for navigation and selling moe.
+# omr
+On my railgun , for navigation and selling moe.
 
 # being developed
